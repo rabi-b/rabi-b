@@ -2,7 +2,7 @@
 - 👀 I’m interested in design and urban development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on creative and social impact projects
-- 📫 How to reach me linkein.com/in/rabibah
+- 📫 How to reach me linkedin.com/in/rabibah
 
 <!---
 rabi-b/rabi-b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
