@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rabi-b
 - 👀 I’m interested in design and urban development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on creative and social impact projects
 - 📫 How to reach me linkedin.com/in/rabibah
 
